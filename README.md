@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <div align="left">
 
 "안녕하세요👋<br>
