@@ -6,9 +6,9 @@
 <h3>"안녕하세요👋<br>
 &nbsp;개발하면서, 밥먹는 박우식입니다."</h3>
 
-<h5>Think Positive! 항상 긍정의 힘을 믿으며 앞으로 나아갑니다.<br>
+<p>Think Positive! 항상 긍정의 힘을 믿으며 앞으로 나아갑니다.<br>
 협업을 위해 배려하며, 성장하기 위해 노력합니다.<br>
-그리고 저는 여자친구가 있습니다.</h5>
+그리고 저는 여자친구가 있습니다.</p>
 
 ![Programmer](https://example.com/path/to/programmer-image.png)
 
