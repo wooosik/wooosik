@@ -12,6 +12,6 @@
 
 ![Programmer](https://example.com/path/to/programmer-image.png)
 
-<h3>"협업 Tool"</h3>h<br>
+<h3>협업 Tool</h3>
 <img src = "https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">&nbsp;<img src = "https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
 </div>
