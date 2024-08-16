@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<div align="center">
+<div align="left">
 
 "안녕하세요👋<br>
 개발하면서, 밥먹는 박우식입니다."
