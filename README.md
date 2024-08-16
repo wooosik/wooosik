@@ -13,6 +13,6 @@
 ![Programmer](https://example.com/path/to/programmer-image.png)
 
 <h5>협업 Tool</h5>
-<img src = "https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" heigth="30px"> &nbsp; <img src = "https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" heigth="30px">
+<img src = "https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" height="30px"> &nbsp; <img src = "https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" height="30px">
 
 </div>
