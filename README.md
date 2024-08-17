@@ -11,7 +11,7 @@
 <p>Think Positive! 항상 긍정의 힘을 믿으며 앞으로 나아갑니다.<br>
 협업을 위해 배려하며, 성장하기 위해 노력합니다.<br></p>
 
-![Programmer](https://example.com/path/to/programmer-image.png)
+<!--![Programmer](https://example.com/path/to/programmer-image.png)-->
 
 <h4>📚Tech Stack</h4>
 <img src = "https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" height="30px"> &nbsp; <img src = "https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" height="30px">
