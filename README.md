@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=I`m&nbsp;woosik%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=I`m&nbsp;woosik&fontSize=90)
 
 <a href="https://www.youtube.com/watch?v=w9DfC2BHGPA" target="_blank">
 <img src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png" width="100px">
