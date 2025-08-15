@@ -6,7 +6,7 @@
 
 <p>
 - <b>AWS Cloud School</b> 6개월 수료, 클라우드/인프라 운영과 CI/CD 설계 경험<br/>
-- <b>자율주행 프로젝트</b>에서 제어팀으로 Planning & Control 개발(카메라/라이다/GPS) 실습<br/>
+- <b>자율주행 프로젝트</b> 에서 제어팀으로 Planning & Control 개발(카메라/라이다/GPS) 6번의 대회 참여<br/>
 - 문제를 끝까지 파고드는 타입. <b>Think Positive</b> & 협업 중심으로 성장합니다.
 </p>
 
